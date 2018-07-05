@@ -1,0 +1,10 @@
+main > * {
+	background-color: goldenrod;
+	padding: 10px;
+	font-size: 3em;
+}
+
+main {
+	display:grid;
+	grid-gap:10px;
+}
